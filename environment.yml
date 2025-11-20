@@ -10,3 +10,8 @@ dependencies:
   - pip:
     # Snowflake
     - snowflake-cli-labs
+<<<<<<< HEAD
+=======
+    - snowflake-snowpark-python
+    - snowflake
+>>>>>>> 39e28f8bcaa90f38fcabe2ecb1fd5a8d58e24dcb
